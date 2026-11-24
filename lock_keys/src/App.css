@@ -1,0 +1,54 @@
+body {
+  color: #d3d7e7;
+}
+
+/* INPUT E PLACEHOLDER*/
+input {
+  color: #d3d7e7;
+  background-color: #465779;
+}
+::placeholder{
+  color: #99b3c6;
+}
+
+/* SELECTS */
+select {
+  color: #d3d7e7;
+  background-color: #465779;
+  border-radius: 2px;
+}
+
+/* HEADER (CONTÉM NAV)*/
+header {
+  background: #221831;
+  height: 100px;
+}
+header h1 {
+  font-size: 50px;
+  text-align: center;
+}
+/* NAV */
+nav {
+  background: #221831;
+  height: 100px;
+}
+
+/* SECTION */
+section {
+background: #465779;
+}
+
+/* ASIDE */
+aside {
+background: #99b3c6;
+}
+
+/* FOOTER */
+footer {
+  background: #221831;
+  height: 100px;
+}
+
+@media (max-width: 1024px) {
+
+}
